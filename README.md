@@ -106,10 +106,13 @@ astro dev start
 
 ### DAG Status
 
-![DAG Run Status](img/run_success.png)
+DAG Status run
+<img width="1856" height="872" alt="run_success" src="https://github.com/user-attachments/assets/66cba991-0128-4059-ae34-6e3b0566e08b" />
+
 <!-- imgs\run_success.png -->
 - Screenshot shows successful DAG execution
 
+<img width="1185" height="806" alt="weather_etl_pipeline-graph" src="https://github.com/user-attachments/assets/b7a9fec9-9528-43c7-b487-51cc083ef46c" />
 
 ### Task Logs
 You can monitor task execution through:
